@@ -1,6 +1,7 @@
 
 public class Biped extends Object
 {
+	//test commit
 	String paint = "NORMAL";
 	String getPaint()
 	{
